@@ -1,2 +1,2 @@
 # training-test
-Quotes First git training "
+ First git training 
